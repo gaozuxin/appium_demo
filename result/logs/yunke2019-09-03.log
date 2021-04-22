@@ -1,0 +1,54 @@
+[2019-09-03 09:41:13] [ERROR] 请检查移动设备是否连接正常,异常信息list index out of range
+[2019-09-03 09:41:13] [INFO] [driverSet.py]driver初始化‖platformVersion:7.1.2
+,deviceName:806cee3c0005
+[2019-09-03 09:41:23] [ERROR] [driverSet.py]appium启动失败,请检查appium服务是否开启；异常原因:HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014964A0C5C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2019-09-03 09:41:24] [INFO] [sendEmail.py]The new report name:result_2019-09-03 09_41_07.html
+[2019-09-03 09:41:41] [INFO] [driverSet.py]driver初始化‖platformVersion:,deviceName:806cee3c0005
+[2019-09-03 09:41:51] [ERROR] [driverSet.py]appium启动失败,请检查appium服务是否开启；异常原因:HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002478E812400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2019-09-03 09:41:52] [INFO] [driverSet.py]driver初始化‖platformVersion:,deviceName:806cee3c0005
+[2019-09-03 09:42:02] [ERROR] [driverSet.py]appium启动失败,请检查appium服务是否开启；异常原因:HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002478E18B6D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2019-09-03 09:42:02] [INFO] [sendEmail.py]The new report name:result_2019-09-03 09_41_35.html
+[2019-09-03 09:42:21] [INFO] [driverSet.py]driver初始化‖platformVersion:,deviceName:806cee3c0005
+[2019-09-03 09:42:31] [ERROR] [driverSet.py]appium启动失败,请检查appium服务是否开启；异常原因:HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C7D552400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2019-09-03 09:42:32] [INFO] [driverSet.py]driver初始化‖platformVersion:7.1.2
+,deviceName:806cee3c0005
+[2019-09-03 09:43:12] [ERROR] [driverSet.py]appium启动失败,请检查appium服务是否开启；异常原因:Message: A new session could not be created. (Original error: Command failed: C:\Windows\system32\cmd.exe /s /c ""D:\Program Files\android-sdk\platform-tools\adb.exe" -s 806cee3c0005 shell "ps 'uiautomator'""
+)
+
+[2019-09-03 09:43:12] [INFO] [sendEmail.py]The new report name:result_2019-09-03 09_42_17.html
+[2019-09-03 09:43:54] [INFO] [driverSet.py]driver初始化‖platformVersion:,deviceName:806cee3c0005
+[2019-09-03 09:44:23] [INFO] [driverSet.py]启动接口为:4723,手机ID为：806cee3c0005
+[2019-09-03 09:44:23] [INFO] *************************taskCasestart*************************
+[2019-09-03 09:44:23] [INFO] *====================用例taskCase\test_customer_001开始执行====================*
+[2019-09-03 09:44:32] [INFO] [basePage.py]已截屏并保存2019-09-03 09_44_30.png!
+[2019-09-03 09:44:33] [INFO] [basePage.py]已截屏并保存2019-09-03 09_44_32.png!
+[2019-09-03 09:44:33] [INFO] ************************************taskCaseend*************************************
+[2019-09-03 09:44:33] [INFO] *************************taskCase0start*************************
+[2019-09-03 09:44:33] [INFO] *====================用例taskCase0\test_customer_001开始执行====================*
+[2019-09-03 09:44:48] [INFO] [basePage.py]已截屏并保存2019-09-03 09_44_47.png!
+[2019-09-03 09:44:51] [ERROR] [basePage.py]寻找元素失败, 定位方式为id:com.android.dialer:id/floating_end_call_action_button
+[2019-09-03 09:44:52] [INFO] [basePage.py]已截屏并保存2019-09-03 09_44_51.png!
+[2019-09-03 09:44:52] [INFO] *====================用例taskCase0\test_customer_002开始执行====================*
+[2019-09-03 09:45:03] [ERROR] [basePage.py]寻找元素失败, 定位方式为uiautomator:录入客户
+[2019-09-03 09:45:04] [INFO] [basePage.py]已截屏并保存2019-09-03 09_45_03.png!
+[2019-09-03 09:45:04] [INFO] ************************************taskCase0end*************************************
+[2019-09-03 09:45:04] [INFO] [sendEmail.py]The new report name:result_2019-09-03 09_43_49.html
+[2019-09-03 09:45:17] [INFO] [driverSet.py]driver初始化‖platformVersion:7.1.2
+,deviceName:806cee3c0005
+[2019-09-03 09:45:35] [INFO] [driverSet.py]启动接口为:4723,手机ID为：806cee3c0005
+[2019-09-03 09:45:35] [INFO] *************************taskCasestart*************************
+[2019-09-03 09:45:35] [INFO] *====================用例taskCase\test_customer_001开始执行====================*
+[2019-09-03 09:45:42] [INFO] [basePage.py]已截屏并保存2019-09-03 09_45_41.png!
+[2019-09-03 09:45:46] [INFO] [basePage.py]已截屏并保存2019-09-03 09_45_45.png!
+[2019-09-03 09:45:48] [INFO] [basePage.py]已截屏并保存2019-09-03 09_45_46.png!
+[2019-09-03 09:45:48] [INFO] ************************************taskCaseend*************************************
+[2019-09-03 09:45:48] [INFO] *************************taskCase0start*************************
+[2019-09-03 09:45:48] [INFO] *====================用例taskCase0\test_customer_001开始执行====================*
+[2019-09-03 09:46:00] [INFO] [basePage.py]已截屏并保存2019-09-03 09_45_58.png!
+[2019-09-03 09:46:03] [ERROR] [basePage.py]寻找元素失败, 定位方式为id:com.android.dialer:id/floating_end_call_action_button
+[2019-09-03 09:46:05] [INFO] [basePage.py]已截屏并保存2019-09-03 09_46_03.png!
+[2019-09-03 09:46:05] [INFO] *====================用例taskCase0\test_customer_002开始执行====================*
+[2019-09-03 09:46:14] [ERROR] [basePage.py]寻找元素失败, 定位方式为uiautomator:录入客户
+[2019-09-03 09:46:16] [INFO] [basePage.py]已截屏并保存2019-09-03 09_46_14.png!
+[2019-09-03 09:46:16] [INFO] ************************************taskCase0end*************************************
+[2019-09-03 09:46:16] [INFO] [sendEmail.py]The new report name:result_2019-09-03 09_45_17.html

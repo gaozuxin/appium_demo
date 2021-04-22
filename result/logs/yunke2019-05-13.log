@@ -1,0 +1,325 @@
+[2019-05-13 09:44:34] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 09:44:43] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 09:44:43] [INFO] *************************taskCasestart*************************
+[2019-05-13 09:44:44] [INFO] [basePage.py]已截屏并保存2019-05-13 09_44_43.png!
+[2019-05-13 09:44:44] [INFO] *====================用例taskCase\test_customer_002开始执行====================*
+[2019-05-13 09:44:54] [INFO] *====================用例taskCase\test_customer_002执行结束====================*
+[2019-05-13 09:44:55] [INFO] [basePage.py]已截屏并保存2019-05-13 09_44_54.png!
+[2019-05-13 09:44:55] [INFO] *====================用例taskCase\test_customer_003开始执行====================*
+[2019-05-13 09:45:04] [INFO] *====================用例taskCase\test_customer_003执行结束====================*
+[2019-05-13 09:45:05] [INFO] [basePage.py]已截屏并保存2019-05-13 09_45_04.png!
+[2019-05-13 09:45:05] [INFO] ************************************taskCaseend*************************************
+[2019-05-13 09:45:05] [INFO] [sendEmail.py]The new report name:result_2019-05-13 09_44_33.html
+[2019-05-13 10:03:21] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 10:03:31] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 10:03:31] [INFO] *************************__main__start*************************
+[2019-05-13 10:03:31] [INFO] *====================用例__main__\test_customer_001开始执行====================*
+[2019-05-13 10:03:37] [INFO] [basePage.py]已截屏并保存2019-05-13 10_03_32.png!
+[2019-05-13 10:03:37] [INFO] *====================用例__main__\test_customer_002开始执行====================*
+[2019-05-13 10:03:43] [INFO] *====================用例__main__\test_customer_002执行结束====================*
+[2019-05-13 10:03:44] [INFO] [basePage.py]已截屏并保存2019-05-13 10_03_43.png!
+[2019-05-13 10:03:44] [INFO] *====================用例__main__\test_customer_003开始执行====================*
+[2019-05-13 10:03:50] [INFO] *====================用例__main__\test_customer_003执行结束====================*
+[2019-05-13 10:03:51] [INFO] [basePage.py]已截屏并保存2019-05-13 10_03_50.png!
+[2019-05-13 10:03:51] [INFO] ************************************__main__end*************************************
+[2019-05-13 10:03:53] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 10:04:01] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 10:04:01] [INFO] *************************__main__start*************************
+[2019-05-13 10:04:01] [INFO] *====================用例__main__\test_customer_001开始执行====================*
+[2019-05-13 10:04:23] [INFO] [basePage.py]已截屏并保存2019-05-13 10_04_22.png!
+[2019-05-13 10:04:23] [INFO] *====================用例__main__\test_customer_002开始执行====================*
+[2019-05-13 10:04:33] [INFO] *====================用例__main__\test_customer_002执行结束====================*
+[2019-05-13 10:04:34] [INFO] [basePage.py]已截屏并保存2019-05-13 10_04_33.png!
+[2019-05-13 10:04:34] [INFO] *====================用例__main__\test_customer_003开始执行====================*
+[2019-05-13 10:04:42] [INFO] *====================用例__main__\test_customer_003执行结束====================*
+[2019-05-13 10:04:43] [INFO] [basePage.py]已截屏并保存2019-05-13 10_04_42.png!
+[2019-05-13 10:04:43] [INFO] ************************************__main__end*************************************
+[2019-05-13 10:30:51] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 10:31:00] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 10:31:00] [INFO] *************************taskCasestart*************************
+[2019-05-13 10:31:00] [INFO] *====================用例taskCase\test_customer_001开始执行====================*
+[2019-05-13 10:31:05] [INFO] [basePage.py]已截屏并保存2019-05-13 10_31_01.png!
+[2019-05-13 10:31:05] [INFO] *====================用例taskCase\test_customer_002开始执行====================*
+[2019-05-13 10:31:09] [INFO] [basePage.py]已截屏并保存2019-05-13 10_31_08.png!
+[2019-05-13 10:31:09] [INFO] ************************************taskCaseend*************************************
+[2019-05-13 10:31:59] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 10:32:07] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 10:32:07] [INFO] *************************__main__start*************************
+[2019-05-13 10:32:08] [INFO] [basePage.py]已截屏并保存2019-05-13 10_32_07.png!
+[2019-05-13 10:32:08] [INFO] *====================用例__main__\test_customer_002开始执行====================*
+[2019-05-13 10:32:18] [INFO] *====================用例__main__\test_customer_002执行结束====================*
+[2019-05-13 10:32:19] [INFO] [basePage.py]已截屏并保存2019-05-13 10_32_18.png!
+[2019-05-13 10:32:19] [INFO] ************************************__main__end*************************************
+[2019-05-13 10:35:30] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 10:35:38] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 10:35:38] [INFO] *************************__main__start*************************
+[2019-05-13 10:35:39] [INFO] [basePage.py]已截屏并保存2019-05-13 10_35_38.png!
+[2019-05-13 10:35:39] [INFO] *====================用例__main__\test_customer_002开始执行====================*
+[2019-05-13 10:35:49] [INFO] *====================用例__main__\test_customer_002执行结束====================*
+[2019-05-13 10:35:50] [INFO] [basePage.py]已截屏并保存2019-05-13 10_35_49.png!
+[2019-05-13 10:35:50] [INFO] ************************************__main__end*************************************
+[2019-05-13 15:35:53] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:36:03] [ERROR] [driver_set.py]appium启动失败,请检查appium服务是否开启；异常原因:HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025253F419E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+[2019-05-13 15:36:35] [ERROR] 请检查移动设备是否连接正常,异常信息list index out of range
+[2019-05-13 15:36:44] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:36:54] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:36:54] [INFO] *************************__main__start*************************
+[2019-05-13 15:36:54] [INFO] *====================用例__main__\test_customer_001开始执行====================*
+[2019-05-13 15:37:00] [INFO] [basePage.py]已截屏并保存2019-05-13 15_36_59.png!
+[2019-05-13 15:37:02] [INFO] [basePage.py]已截屏并保存2019-05-13 15_37_01.png!
+[2019-05-13 15:37:02] [INFO] *====================用例__main__\test_customer_001执行结束====================*
+[2019-05-13 15:37:03] [INFO] [basePage.py]已截屏并保存2019-05-13 15_37_02.png!
+[2019-05-13 15:37:04] [INFO] [basePage.py]已截屏并保存2019-05-13 15_37_03.png!
+[2019-05-13 15:37:04] [INFO] ************************************__main__end*************************************
+[2019-05-13 15:38:15] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:38:22] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:38:22] [INFO] *************************__main__start*************************
+[2019-05-13 15:38:22] [INFO] *====================用例__main__\test_customer_001开始执行====================*
+[2019-05-13 15:38:28] [INFO] [basePage.py]已截屏并保存2019-05-13 15_38_27.png!
+[2019-05-13 15:38:32] [INFO] [basePage.py]已截屏并保存2019-05-13 15_38_30.png!
+[2019-05-13 15:38:32] [INFO] *====================用例__main__\test_customer_001执行结束====================*
+[2019-05-13 15:38:33] [INFO] [basePage.py]已截屏并保存2019-05-13 15_38_32.png!
+[2019-05-13 15:38:34] [INFO] [basePage.py]已截屏并保存2019-05-13 15_38_33.png!
+[2019-05-13 15:38:34] [INFO] ************************************__main__end*************************************
+[2019-05-13 15:39:44] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:39:51] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:39:51] [INFO] *************************__main__start*************************
+[2019-05-13 15:39:51] [INFO] *====================用例__main__\test_customer_001开始执行====================*
+[2019-05-13 15:39:58] [INFO] [basePage.py]已截屏并保存2019-05-13 15_39_57.png!
+[2019-05-13 15:40:02] [INFO] [basePage.py]已截屏并保存2019-05-13 15_40_01.png!
+[2019-05-13 15:40:02] [INFO] *====================用例__main__\test_customer_001执行结束====================*
+[2019-05-13 15:40:03] [INFO] [basePage.py]已截屏并保存2019-05-13 15_40_02.png!
+[2019-05-13 15:40:04] [INFO] [basePage.py]已截屏并保存2019-05-13 15_40_03.png!
+[2019-05-13 15:40:04] [INFO] ************************************__main__end*************************************
+[2019-05-13 15:44:31] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:44:39] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:44:40] [INFO] [basePage.py]已截屏并保存2019-05-13 15_44_39.png!
+[2019-05-13 15:51:43] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:51:51] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:51:56] [INFO] [basePage.py]已截屏并保存2019-05-13 15_51_55.png!
+[2019-05-13 15:52:10] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:52:17] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:52:24] [INFO] [basePage.py]已截屏并保存2019-05-13 15_52_22.png!
+[2019-05-13 15:52:33] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:52:41] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:53:04] [INFO] [basePage.py]已截屏并保存2019-05-13 15_53_02.png!
+[2019-05-13 15:53:14] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:53:22] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:53:24] [INFO] [basePage.py]已截屏并保存2019-05-13 15_53_23.png!
+[2019-05-13 15:53:57] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:54:04] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:54:07] [INFO] [basePage.py]已截屏并保存2019-05-13 15_54_05.png!
+[2019-05-13 15:54:16] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 15:54:24] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 15:54:46] [INFO] [basePage.py]已截屏并保存2019-05-13 15_54_44.png!
+[2019-05-13 16:00:39] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:00:47] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:00:48] [INFO] [basePage.py]已截屏并保存2019-05-13 16_00_47.png!
+[2019-05-13 16:01:34] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:01:41] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:01:44] [INFO] [basePage.py]已截屏并保存2019-05-13 16_01_42.png!
+[2019-05-13 16:02:11] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:02:18] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:02:24] [INFO] [basePage.py]已截屏并保存2019-05-13 16_02_23.png!
+[2019-05-13 16:02:39] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:02:47] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:03:10] [INFO] [basePage.py]已截屏并保存2019-05-13 16_03_09.png!
+[2019-05-13 16:03:24] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:03:32] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:03:54] [INFO] [basePage.py]已截屏并保存2019-05-13 16_03_53.png!
+[2019-05-13 16:29:48] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:29:56] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:31:13] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:42:11] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:42:19] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:42:28] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:42:35] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:44:06] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:44:14] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:44:26] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:44:34] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:44:57] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:45:04] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:51:33] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:51:41] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:53:34] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:53:42] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 16:54:01] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 16:54:09] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:04:32] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:04:40] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:09:17] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:09:25] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:09:39] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:09:46] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:09:57] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:10:05] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:10:29] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:10:37] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:10:50] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:10:58] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:11:19] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:11:26] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:13:02] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:13:10] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:13:18] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:16:15] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:16:22] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:16:52] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:16:59] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:18:18] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:18:26] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:20:14] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:20:22] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:20:39] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:20:47] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:23:24] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:23:32] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:24:12] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:24:20] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:33:52] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:34:00] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:35:04] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:35:12] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:35:43] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:35:51] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:36:18] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:36:26] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:37:26] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:37:34] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:37:57] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:38:05] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 17:38:19] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 17:38:27] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:15:17] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:15:25] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:16:45] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:16:54] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:17:10] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:17:17] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:17:36] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:17:43] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:17:51] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:18:32] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:18:40] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:19:00] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:19:07] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:27:00] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:27:10] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:28:14] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:28:21] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:28:41] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:28:49] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:29:11] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:29:19] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:30:30] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:30:38] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:31:17] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:31:25] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:32:22] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:32:30] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:32:44] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:32:52] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:37:46] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:37:53] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:38:51] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:38:58] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:39:55] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:40:03] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:50:39] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:50:49] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:51:05] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:51:15] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:54:04] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:54:12] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:54:50] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:54:58] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 18:57:46] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 18:57:54] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 19:24:28] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 19:24:38] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 19:25:08] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 19:25:18] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
+[2019-05-13 19:25:30] [INFO] [driver_set.py]driver初始化‖platformVersion:7.1.2
+,deviceName:2bf809f70005
+[2019-05-13 19:25:37] [INFO] [driver_set.py]启动接口为:4723,手机ID为：2bf809f70005
